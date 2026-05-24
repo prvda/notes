@@ -1,0 +1,5 @@
+/.env
+/var/
+/.playwright-cli/
+/output/
+*.log
